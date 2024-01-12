@@ -1,0 +1,86 @@
+﻿Admission	O
+Date	O
+:	O
+
+2012-10-31	O
+PAD-WORD	O
+
+Discharge	O
+Date	O
+:	O
+
+2012-11-07	O
+PAD-WORD	O
+
+Date	O
+of	O
+Birth	O
+:	O
+
+1941-03-23	O
+PAD-WORD	O
+
+Sex	O
+:	O
+
+M	O
+PAD-WORD	O
+
+Service	O
+:	O
+
+MEDICINE	O
+PAD-WORD	O
+
+Allergies	O
+:	O
+
+Nsaids/Anti-Inflammatory	B-treatment
+Classifier	I-treatment
+/	O
+Vancomycin	B-treatment
+
+Attending	O
+:	O
+
+Kristie	O
+R.	O
+Hamby	O
+,	O
+M.D.	O
+
+Chief	O
+Complaint	O
+:	O
+
+CC	O
+:	O
+Antonio	O
+M.	O
+Z.	O
+Eddings	O
+,	O
+M.D.	O
+
+Major	O
+Surgical	O
+or	O
+Invasive	O
+Procedure	O
+:	O
+
+Mesenteric	B-test
+angiograpm	I-test
+w/	O
+coil	B-treatment
+embolization	I-treatment
+of	O
+bleeding	B-problem
+vessel	I-problem
+.	O
+
+Sigmoidoscopy	B-test
+.	O
+
+Colonoscopy	B-test
+.	O
